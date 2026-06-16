@@ -1,5 +1,3 @@
-# municipal-digital-archive
-
 # Acervo Digital Municipal
 
 ##  Sobre o Projeto:
